@@ -1,0 +1,74 @@
+[
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Ibuprofen",
+    "severity": "Major",
+    "description": "Meningkatkan risiko pendarahan mayor, terutama pada saluran cerna. Monitor INR secara ketat."
+  },
+  {
+    "drug_a": "Warfarin",
+    "drug_b": "Aspirin",
+    "severity": "Major",
+    "description": "Risiko pendarahan sangat tinggi. Hindari kombinasi kecuali sangat diperlukan."
+  },
+  {
+    "drug_a": "Digoxin",
+    "drug_b": "Clarithromycin",
+    "severity": "Major",
+    "description": "Clarithromycin meningkatkan kadar digoxin plasma hingga 2x lipat. Risiko toksisitas digoxin."
+  },
+  {
+    "drug_a": "Metformin",
+    "drug_b": "Contrast Media",
+    "severity": "Major",
+    "description": "Risiko asidosis laktat pada pasien dengan gangguan ginjal. Hentikan metformin 48 jam sebelum prosedur."
+  },
+  {
+    "drug_a": "Clopidogrel",
+    "drug_b": "Omeprazole",
+    "severity": "Moderate",
+    "description": "Omeprazole dapat mengurangi efektivitas clopidogrel hingga 50%. Pertimbangkan pantoprazole sebagai alternatif."
+  },
+  {
+    "drug_a": "Atorvastatin",
+    "drug_b": "Clarithromycin",
+    "severity": "Major",
+    "description": "Risiko rhabdomyolysis dan myopathy. Hentikan statin selama terapi clarithromycin."
+  },
+  {
+    "drug_a": "Phenytoin",
+    "drug_b": "Sertraline",
+    "severity": "Moderate",
+    "description": "Sertraline dapat meningkatkan kadar phenytoin. Monitor kadar plasma phenytoin."
+  },
+  {
+    "drug_a": "Methotrexate",
+    "drug_b": "Trimethoprim",
+    "severity": "Major",
+    "description": "Efek sinergis dalam menghambat folat. Risiko toksisitas hematologi tinggi."
+  },
+  {
+    "drug_a": "Levothyroxine",
+    "drug_b": "Iron",
+    "severity": "Moderate",
+    "description": "Iron mengurangi absorpsi levothyroxine hingga 50%. Berikan dengan jarak minimal 4 jam."
+  },
+  {
+    "drug_a": "Morphine",
+    "drug_b": "Midazolam",
+    "severity": "Major",
+    "description": "Efek depresi napas sinergis. Gunakan dengan monitoring ketat atau hindari kombinasi."
+  },
+  {
+    "drug_a": "Lisinopril",
+    "drug_b": "Ibuprofen",
+    "severity": "Moderate",
+    "description": "NSAID dapat mengurangi efektivitas ACE inhibitor dan meningkatkan risiko gangguan ginjal."
+  },
+  {
+    "drug_a": "Gliclazide",
+    "drug_b": "Clarithromycin",
+    "severity": "Moderate",
+    "description": "Clarithromycin dapat meningkatkan risiko hipoglikemia. Monitor gula darah lebih sering."
+  }
+]
